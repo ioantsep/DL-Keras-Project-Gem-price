@@ -1,5 +1,5 @@
-# Tensorflow-Keras-Project-Gem-price
+# Predict the price for a new gem
 
-Predict the sale price of a new mined gem stone to set a fair price in the market
+Predict the sale price of a new mined gem stone to set a fair price in the market using Tensorflow
 
 ** fake data
